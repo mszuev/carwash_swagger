@@ -1,2 +1,2 @@
-REST API carwash project on SpringBoot
+REST API project on SpringBoot
 API documented on swagger.
