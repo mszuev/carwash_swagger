@@ -1,2 +1,2 @@
 REST API carwash project on SpringBoot
-API documented on swagger
+API documented on swagger.
